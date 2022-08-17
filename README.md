@@ -11,4 +11,4 @@
      4.   Collecting all books in each categories in the website 
      5.   Saving this data in csv file
      
-#### Note   : **Run This Project When You Connected to Internet**  
+#### Note   : **Run This Project When You're Connected to Internet**  
