@@ -1,4 +1,4 @@
-# **Scraping Books Data 🔍📝**
+# **Scraping Books Data 🔎📝**
 --------------------------------------------------------------------------
 ### 1. About Project 
 **Scraping (Collecting) all books information from https://books.toscrape.com/ including book name , price , rate and category of book and saving this collected data in csv file (Books.csv) .** 
